@@ -1,8 +1,8 @@
-<p><img align="center" src="https://media.discordapp.net/attachments/987947169468284948/1039541531218018344/github-header-image.png" alt="vedant" /></p>
+<p><img align="center" src="https://media.discordapp.net/attachments/987947169468284948/1039548196537511997/github-header-image_4.png" alt="vedant" /></p>
 
 <p></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VedantMate&label=Profile%20views&color=0e75b6&style=flat" alt="Vedant" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=VedantMate&label=Profile%20views&color=0e75b6&style=flat" alt="Vedant" /></p>
 
 - 🔭 I’m currently working on [Museam Of Candy](https://vedantmate.github.io/candy/candy.html)
 
