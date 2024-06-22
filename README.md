@@ -1,5 +1,3 @@
-<p><img align="center" src="https://media.discordapp.net/attachments/987947169468284948/1039548196537511997/github-header-image_4.png" alt="vedant" /></p>
-
 <p></p>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=VedantMate&label=Profile%20views&color=0e75b6&style=flat" alt="Vedant" /></p>
